@@ -355,3 +355,14 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/apps/angular/.yarn
+/apps/auth-server/src/EShopOnAbp.AuthServer/.yarn
+/apps/public-web/src/EShopOnAbp.PublicWeb/.yarn
+/apps/public-web/src/EShopOnAbp.PublicWeb/yarn.lock
+/apps/public-web/src/EShopOnAbp.PublicWeb/.yarnrc.yml
+/apps/auth-server/src/EShopOnAbp.AuthServer/yarn.lock
+/apps/angular/yarn.lock
+/apps/angular/.yarnrc.yml
+/yarn.lock
+/.yarnrc.yml
+/.yarn
